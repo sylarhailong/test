@@ -3,3 +3,4 @@ Git is free software.
 add news line test rollback
 add license
 test ao home
+test on mac
